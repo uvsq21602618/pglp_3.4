@@ -22,9 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-</project>
 
-<reporting>
+  <reporting>
 		<plugins>
 
 			
